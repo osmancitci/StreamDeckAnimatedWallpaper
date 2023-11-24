@@ -1,7 +1,9 @@
 
 # Stream Deck Animated Wallpaper 
 
+Entirely Coded in Python. I Present It to You in a Single Package. You don't need to install anything.
 
+Note: Only valid for StreamDeck 15 Key Model.
 
 
 ## Features
