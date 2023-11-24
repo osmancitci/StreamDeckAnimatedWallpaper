@@ -5,6 +5,9 @@ Entirely Coded in Python. I Present It to You in a Single Package. You don't nee
 
 Note: Only valid for StreamDeck 15 Key Model.
 
+![tr](https://img.shields.io/github/downloads/osmancitci/StreamDeckAnimatedWallpaper/total?color=HSL%28230%C2%B0%2C%200%25%2C%2050%25%29&label=Downloads)
+
+[![tr](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/Download.png?raw=true)](https://github.com/osmancitci/StreamDeckAnimatedWallpaper/releases/download/v1.0/SDWallpaper.exe)
 
 ## Features
 
