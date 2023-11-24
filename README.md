@@ -17,7 +17,7 @@ Note: Only valid for StreamDeck 15 Key Model.
 
 ## Starting
 
-You Open Wallpaper.exe and the Console will appear in front of you. All you need to do is copy an animation link from mylivewallpapers.com and paste it into the console. Once completed, the StreamDeck Profile file will be created in the folder where the program is running. You can double click on the Profile File and view it in your streamdeck.
+You Open SDWallpaper.exe and the Console will appear in front of you. All you need to do is copy an animation link from mylivewallpapers.com and paste it into the console. Once completed, the StreamDeck Profile file will be created in the folder where the program is running. You can double click on the Profile File and view it in your streamdeck.
 
   
 ## Frequently asked Questions
