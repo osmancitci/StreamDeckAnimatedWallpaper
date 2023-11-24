@@ -17,9 +17,12 @@ Note: Only valid for StreamDeck 15 Key Model.
   
 ## Demo
 
+
 ![1](https://github.com/osmancitci/StreamDeckAnimatedWallpaper/blob/main/Picture/1.png?raw=true)
 ![2](https://github.com/osmancitci/StreamDeckAnimatedWallpaper/blob/main/Picture/2.png?raw=true)
-![2](https://github.com/osmancitci/StreamDeckAnimatedWallpaper/blob/main/Picture/3.png?raw=true)
+![3](https://github.com/osmancitci/StreamDeckAnimatedWallpaper/blob/main/Picture/3.png?raw=true)
+=======
+
 
 ## Starting
 
